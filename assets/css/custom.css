@@ -6,9 +6,9 @@
 }
 
 .pill {
-   font-size: 9px;
+   font-size: 10px;
    display: inline-block;
-   padding: 1px;
+   padding: 4px;
    background-color: #007bff; /* Primary color (blue) */
    color: white;
    border-radius: 20px; /* Makes the pill round */
