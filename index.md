@@ -8,7 +8,7 @@
 
 ### Machine Learning
 
-<div style="min-width: 1200px; margin: 0 auto;">
+<div style="min-width: 800px; margin: 0 auto;">
   
   <div style="display: flex;">
     <div style="flex: 1; padding: 10px;">
