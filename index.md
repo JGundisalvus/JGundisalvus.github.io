@@ -4,6 +4,7 @@
 ### Table of Contents
 - [Category Name 1](#category-name-1)
 - [Category Name 2](#category-name-2)
+- <br>
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
