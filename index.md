@@ -9,12 +9,12 @@
 
 
 <div style="display: flex;">
-  <div style="flex: 1; padding: 10px;">
+  <div style="flex: 1.5; padding: 10px;">
     <b>Project 1 Title</b><br>
     <img src="images/dummy_thumbnail.jpg?raw=true" width="200px"/><br>
     A brief description of Project 1. You can describe the technologies used, features, or purpose of the project.
   </div>
-  <div style="flex: 1; padding: 10px;">
+  <div style="flex: 1.5; padding: 10px;">
     <b>Project 2 Title</b><br>
     <img src="images/dummy_thumbnail.jpg?raw=true" width="200px"/><br>
     A brief description of Project 2. Provide some insights about this project as well.
@@ -22,12 +22,12 @@
 </div>
 
 <div style="display: flex;">
-  <div style="flex: 1; padding: 10px;">
+  <div style="flex: 1.5; padding: 10px;">
     <b>Project 3 Title</b><br>
     <img src="images/dummy_thumbnail.jpg?raw=true" width="200px"/><br>
     A brief description of Project 3.
   </div>
-  <div style="flex: 1; padding: 10px;">
+  <div style="flex: 1.5; padding: 10px;">
     <b>Project 4 Title</b><br>
     <img src="images/dummy_thumbnail.jpg?raw=true" width="200px"/><br>
     A brief description of Project 4.
