@@ -15,8 +15,8 @@
       <img src="images/dummy_thumbnail.jpg?raw=true" width="200px"/><br>
       A brief description of Project 1. You can describe the technologies used, features, or purpose of the project.
       <div class="pill-container">
-       <a class="pill" >Category 1</a>
-       <a class="pill" >Category 2</a>
+       <a class="pill" >Classification</a>
+       <a class="pill" >Outlier Handling</a>
       </div>
     </div>
     <div style="flex: 1; padding: 10px;">
