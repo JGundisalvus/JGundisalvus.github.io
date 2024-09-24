@@ -6,10 +6,10 @@
 
 .pill {
    display: inline-block;
-   padding: 5px 5px;
+   padding: 5px;
    background-color: #007bff; /* Primary color (blue) */
    color: white;
-   border-radius: 10px; /* Makes the pill round */
+   border-radius: 5px; /* Makes the pill round */
    text-decoration: none;
    font-weight: bold;
    transition: background-color 0.3s ease; /* Smooth hover effect */
