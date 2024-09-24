@@ -6,6 +6,7 @@
 - [Data Analysis and Exploration](#data-analysis-and-exploration)
 <br>
 ### Machine Learning
+
 <div style="min-width: 800px; margin: 0 auto;">
   
   <div style="display: flex;">
