@@ -4,21 +4,35 @@
 ### Table of Contents
 - [Category Name 1](#category-name-1)
 - [Category Name 2](#category-name-2)
-- <br>
+  <br>
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<br>
-*A brief description of the project, highlighting key features or technologies used.*
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<br>
-*A brief description of the project, highlighting key features or technologies used.*
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<div style="display: flex;">
+  <div style="flex: 1; padding: 10px;">
+    <b>Project 1 Title</b><br>
+    <img src="images/dummy_thumbnail.jpg?raw=true" width="200px"/><br>
+    A brief description of Project 1. You can describe the technologies used, features, or purpose of the project.
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    <b>Project 2 Title</b><br>
+    <img src="images/dummy_thumbnail.jpg?raw=true" width="200px"/><br>
+    A brief description of Project 2. Provide some insights about this project as well.
+  </div>
+</div>
+
+<div style="display: flex;">
+  <div style="flex: 1; padding: 10px;">
+    <b>Project 3 Title</b><br>
+    <img src="images/dummy_thumbnail.jpg?raw=true" width="200px"/><br>
+    A brief description of Project 3.
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    <b>Project 4 Title</b><br>
+    <img src="images/dummy_thumbnail.jpg?raw=true" width="200px"/><br>
+    A brief description of Project 4.
+  </div>
+</div>
 
 ---
 
