@@ -17,7 +17,6 @@
       <div class="pill-container">
        <a class="pill" >Category 1</a>
        <a class="pill" >Category 2</a>
-       <a class="pill" >Category 3</a>
       </div>
     </div>
     <div style="flex: 1; padding: 10px;">
