@@ -1,6 +1,7 @@
 .pill-container {
    display: flex;
    gap: 10px; /* Adds space between pills */
+   margin-top: 5px; /* Adds space below the pills */
    margin-bottom: 20px; /* Adds space below the pills */
 }
 
