@@ -21,7 +21,6 @@
         <a class="pill">Classification</a>
         <a class="pill">Outlier Handling</a>
       </div>
-      <hr> 
     </div>
   </div>
 <hr> 
