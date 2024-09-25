@@ -12,11 +12,10 @@
    background-color: #007bff; /* Primary color (blue) */
    color: white;
    border-radius: 20px; /* Makes the pill round */
-   text-decoration: none;
+   /* text-decoration: none; */
 }
 
 .profile-img {
-
     max-width: 300px;
     border-radius: 50%;
 }
