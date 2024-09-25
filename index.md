@@ -16,7 +16,7 @@
     </div>
     <div>
       <b>Project 1 Title</b><br>
-      A brief description of Project 1. You can describe the technologies used, features, or purpose of the project.<br><br>
+      A brief description of Project 1. You can describe the technologies used, features, or purpose of the project.<br>
       <hr> 
       <div class="pill-container">
         <a class="pill">Classification</a>
@@ -25,7 +25,7 @@
       </div>
     </div>
   </div>
-
+<hr> 
   <div style="display: flex; align-items: center; padding: 20px;">
     <div style="flex: 0 0 200px; margin-right: 20px;">
       <img src="images/dummy_thumbnail.jpg?raw=true" width="200px" alt="Project 2 Thumbnail"/>
@@ -35,7 +35,7 @@
       A brief description of Project 2. Provide some insights about this project as well.
     </div>
   </div>
-
+<hr> 
   <div style="display: flex; align-items: center; padding: 20px;">
     <div style="flex: 0 0 200px; margin-right: 20px;">
       <img src="images/dummy_thumbnail.jpg?raw=true" width="200px" alt="Project 3 Thumbnail"/>
@@ -45,7 +45,7 @@
       A brief description of Project 3.
     </div>
   </div>
-
+<hr> 
   <div style="display: flex; align-items: center; padding: 20px;">
     <div style="flex: 0 0 200px; margin-right: 20px;">
       <img src="images/dummy_thumbnail.jpg?raw=true" width="200px" alt="Project 4 Thumbnail"/>
