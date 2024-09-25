@@ -21,8 +21,8 @@
       <div class="pill-container">
         <a class="pill">Classification</a>
         <a class="pill">Outlier Handling</a>
-        <hr> 
       </div>
+      <hr> 
     </div>
   </div>
 <hr> 
