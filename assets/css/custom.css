@@ -15,18 +15,7 @@
    text-decoration: none;
 }
 
-/* Disable hover effect */
-.pill:hover {
-   font-size: 10px;
-   display: inline-block;
-   padding: 4px;
-   background-color: #007bff; /* Primary color (blue) */
-   color: white;
-   border-radius: 20px; /* Makes the pill round */
-   text-decoration: none;
-}
-
-img{
+img {
     width:100%;
     width:300px;
     border-radius: 50%;
