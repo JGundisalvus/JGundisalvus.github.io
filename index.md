@@ -17,7 +17,6 @@
     <div>
       <b>Project 1 Title</b><br>
       A brief description of Project 1. You can describe the technologies used, features, or purpose of the project.<br>
-      <hr> 
       <div class="pill-container">
         <a class="pill">Classification</a>
         <a class="pill">Outlier Handling</a>
