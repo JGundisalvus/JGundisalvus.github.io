@@ -36,7 +36,7 @@ In this notebook we pulled demographics data and analyzed the changes in marriag
 [![](https://img.shields.io/badge/Data_Visualizations-white?style)](#) 
 [![](https://img.shields.io/badge/Demographics-white?style)](#) 
 
-[View Notebook on GitHub](https://github.com/JGundisalvus/portfolio/blob/main/supplier_performance/supplier_analysis.ipynb)
+[View Notebook on GitHub](https://nbviewer.org/github/JGundisalvus/portfolio/blob/main/polish_marriage_demographics/polish_marriage_trends.ipynb)
 
 ---
 <br>
